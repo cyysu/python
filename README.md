@@ -1,9 +1,157 @@
+### python
+
+###### python文档
+https://docs.python.org/3/
+
+https://docs.python.org/dev/reference/datamodel.html
+
+https://docs.python.org/3/tutorial/modules.html
+
+###### python 内置模块
+https://pymotw.com/3/
+
+###### python资源大全中文版
+https://github.com/jobbole/awesome-python-cn
+
+###### python中文开发者社区
+http://www.pythontab.com/
+
+###### python 菜鸟教程
+http://www.runoob.com/python/python-tutorial.html
+
+###### python的开源模块库
+https://pypi.python.org/pypi
+
+###### python练手项目
+https://www.zhihu.com/question/29372574
+
+###### 伯乐在线
+https://github.com/jobbole
+
+http://python.jobbole.com/
+
+http://hao.jobbole.com/?catid=144
+
+###### 廖雪峰官网
+https://www.liaoxuefeng.com/
+
+https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+
+###### git&github快速入门
+http://www.cnblogs.com/alex3714/articles/5930846.html
+
+###### python 标准库中文版
+https://pan.baidu.com/s/1x6VDyLm0lWTkNoGws0LUpQ
+> 密码：3ubb
+
+###### python路飞学城
+https://www.luffycity.com/python-book/
+> 账号：luffy-python  密码：luffy-book
+
+###### djangobook
+http://djangobook.py3k.cn/2.0/
+
+###### 学习python：
+https://www.ctolib.com/python/
+
+http://python3-cookbook.readthedocs.io/zh_CN/latest/c01/p13_sort_list_of_dicts_by_key.html
+
+https://github.com/python
+
+https://www.codewars.com/
+
+---
+
 ###### 网易开源镜像站
 http://mirrors.163.com/
 
+###### 画流程图：
+https://www.processon.com/
+
+###### linux 操作系统
+https://www.deepin.org/
+
+###### linux 鸟哥私房菜
+http://linux.vbird.org/
+
+https://pan.baidu.com/s/1BU9kLQUtRsLcBLl4BhzNtg
+> 密码：e4rz
+
+---
+
+###### 前端到django一部分
+https://pan.baidu.com/s/1tkUCE1Fz6nUaJH2kMKqgSg
+> 密码：mhwk
+
+https://pan.baidu.com/s/12Ms0-35oX2IjLNXdzS57TQ#list/path=%2F
+
+###### 1. django rest framework
+视频1：django rest framework 实战和源码剖析
+
+https://pan.baidu.com/s/1EyQFe16dcYi_eXGi_iOIBQ
+> 密码: 47w9
+
+###### 2. Flask组件和原理剖析
+视频2：Flask全套组件和原理剖析链接:
+
+https://pan.baidu.com/s/14k_JamVM5RHFQB_4NFW-SA
+> 密码: ngug
+
+###### 3. django框架入门到应用
+不瞒你说，这可能是最面向小白的一套django教程了。。。
+
+https://pan.baidu.com/s/1WpyWnH2l2WvzRlsPJhCKLw
+> 密码: ygen
+
+###### 4. Python基础到前端
+认真回想了下，发现这居然是Alex 和 武Sir 最后一次双剑合璧之作：
+
+https://pan.baidu.com/s/1ueZ-c-OjotOSJF9gJMafDw
+> 密码: 9cds
+
+---
+
+###### vuejs视频
+pan.baidu.com/s/1jQauie3IncDDiI_zPJBR2A
+> 密码：vixr
+
+###### java
+pan.baidu.com/s/1942iGmU0eX7ppdmZzi3t-g
+> 密码：az94
+
+###### Python
+pan.baidu.com/s/1IiJA6jpcyBHlN0gR4zHgdA
+> 密码：34q0
+
+###### Android全套
+pan.baidu.com/s/1malE5amlHM_ZZ0UwtgGnSw
+> 密码：ba4s
+
+###### C#
+pan.baidu.com/s/1AaTogYt0JKJ11eihn571vA
+> 密码：7zsy
+
+---
+
+##### pycharm 使用教学视频：
+
+###### 1.Pycharm使用秘籍v3.0（必看）
+http://v.youku.com/v_show/id_XMjczOTM4MzE2MA==.html?spm=a2h0j.11185381.listitem_page1.5
+
+###### 2.Win10下安装Python3和Python2（必看）
+http://v.youku.com/v_show/id_XMjgwNDUwNTEyOA==.html?spm=a2h0j.11185381.listitem_page1.5
+
+###### 3.Windows7下双版本Python环境安装
+http://v.youku.com/v_show/id_XMTY3MDEwNDI4OA==.html?spm=a2h0j.11185381.listitem_page1.5
+
+###### 4.VS Code配置Python开发环境
+http://v.youku.com/v_show/id_XMjUwODI1ODAxMg==.html?spm=a2h0j.11185381.listitem_page1.5
+
+###### 5.SublimeText配置Python开发环境
+http://v.youku.com/v_show/id_XMjUwODI0NjM2OA==.html?spm=a2h0j.11185381.listitem_page1.5
 
 
-
+---
 
 ---
 
